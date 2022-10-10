@@ -25,7 +25,7 @@ namespace User_App
             d.sisteme_gir(sira,user_name.Text, password.Text);
             int i = listView.Items.Count;
             
-            if(d.Get_password().Length > 5)
+            if(d.Get_password().Length > 5 && !(d.Get_username() == ""))
             {
                 listView.Items.Add(sira.ToString());
                 listView.Items[i].SubItems.Add(d.Get_username());
@@ -35,10 +35,13 @@ namespace User_App
                 password.Text = "";
                 MessageBox.Show("Process is successfully!");
             }
-            else
+            else if(d.Get_password().Length < 5)
             {
                 MessageBox.Show("the length of the password cannot be less than 5!");
                 password.Text = "";
+            }else if(d.Get_username() == "")
+            {
+                MessageBox.Show("Enter Your UserName!");
             }
             
         }
