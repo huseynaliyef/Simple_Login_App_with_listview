@@ -1,0 +1,34 @@
+C:\Users\ASUS TUF GAMING\Desktop\New folder\User_App\User_App\bin\Debug\net6.0-windows\User_App.exe
+C:\Users\ASUS TUF GAMING\Desktop\New folder\User_App\User_App\bin\Debug\net6.0-windows\User_App.deps.json
+C:\Users\ASUS TUF GAMING\Desktop\New folder\User_App\User_App\bin\Debug\net6.0-windows\User_App.runtimeconfig.json
+C:\Users\ASUS TUF GAMING\Desktop\New folder\User_App\User_App\bin\Debug\net6.0-windows\User_App.dll
+C:\Users\ASUS TUF GAMING\Desktop\New folder\User_App\User_App\bin\Debug\net6.0-windows\User_App.pdb
+C:\Users\ASUS TUF GAMING\Desktop\New folder\User_App\User_App\obj\Debug\net6.0-windows\User_App.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF GAMING\Desktop\New folder\User_App\User_App\obj\Debug\net6.0-windows\User_App.Form1.resources
+C:\Users\ASUS TUF GAMING\Desktop\New folder\User_App\User_App\obj\Debug\net6.0-windows\User_App.csproj.GenerateResource.cache
+C:\Users\ASUS TUF GAMING\Desktop\New folder\User_App\User_App\obj\Debug\net6.0-windows\User_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF GAMING\Desktop\New folder\User_App\User_App\obj\Debug\net6.0-windows\User_App.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF GAMING\Desktop\New folder\User_App\User_App\obj\Debug\net6.0-windows\User_App.AssemblyInfo.cs
+C:\Users\ASUS TUF GAMING\Desktop\New folder\User_App\User_App\obj\Debug\net6.0-windows\User_App.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF GAMING\Desktop\New folder\User_App\User_App\obj\Debug\net6.0-windows\User_App.dll
+C:\Users\ASUS TUF GAMING\Desktop\New folder\User_App\User_App\obj\Debug\net6.0-windows\refint\User_App.dll
+C:\Users\ASUS TUF GAMING\Desktop\New folder\User_App\User_App\obj\Debug\net6.0-windows\User_App.pdb
+C:\Users\ASUS TUF GAMING\Desktop\New folder\User_App\User_App\obj\Debug\net6.0-windows\User_App.genruntimeconfig.cache
+C:\Users\ASUS TUF GAMING\Desktop\New folder\User_App\User_App\obj\Debug\net6.0-windows\ref\User_App.dll
+C:\C# proyektlerim\Login_App_with_listview\User_App\User_App\bin\Debug\net6.0-windows\User_App.exe
+C:\C# proyektlerim\Login_App_with_listview\User_App\User_App\bin\Debug\net6.0-windows\User_App.deps.json
+C:\C# proyektlerim\Login_App_with_listview\User_App\User_App\bin\Debug\net6.0-windows\User_App.runtimeconfig.json
+C:\C# proyektlerim\Login_App_with_listview\User_App\User_App\bin\Debug\net6.0-windows\User_App.dll
+C:\C# proyektlerim\Login_App_with_listview\User_App\User_App\bin\Debug\net6.0-windows\User_App.pdb
+C:\C# proyektlerim\Login_App_with_listview\User_App\User_App\obj\Debug\net6.0-windows\User_App.csproj.AssemblyReference.cache
+C:\C# proyektlerim\Login_App_with_listview\User_App\User_App\obj\Debug\net6.0-windows\User_App.Form1.resources
+C:\C# proyektlerim\Login_App_with_listview\User_App\User_App\obj\Debug\net6.0-windows\User_App.csproj.GenerateResource.cache
+C:\C# proyektlerim\Login_App_with_listview\User_App\User_App\obj\Debug\net6.0-windows\User_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# proyektlerim\Login_App_with_listview\User_App\User_App\obj\Debug\net6.0-windows\User_App.AssemblyInfoInputs.cache
+C:\C# proyektlerim\Login_App_with_listview\User_App\User_App\obj\Debug\net6.0-windows\User_App.AssemblyInfo.cs
+C:\C# proyektlerim\Login_App_with_listview\User_App\User_App\obj\Debug\net6.0-windows\User_App.csproj.CoreCompileInputs.cache
+C:\C# proyektlerim\Login_App_with_listview\User_App\User_App\obj\Debug\net6.0-windows\User_App.dll
+C:\C# proyektlerim\Login_App_with_listview\User_App\User_App\obj\Debug\net6.0-windows\refint\User_App.dll
+C:\C# proyektlerim\Login_App_with_listview\User_App\User_App\obj\Debug\net6.0-windows\User_App.pdb
+C:\C# proyektlerim\Login_App_with_listview\User_App\User_App\obj\Debug\net6.0-windows\User_App.genruntimeconfig.cache
+C:\C# proyektlerim\Login_App_with_listview\User_App\User_App\obj\Debug\net6.0-windows\ref\User_App.dll
